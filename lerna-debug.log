@@ -1,0 +1,16 @@
+0 warn deprecated --ignore has been renamed --ignore-changes
+1 silly argv { _: [ 'publish' ],
+1 silly argv   composed: 'publish',
+1 silly argv   lernaVersion: '3.13.3',
+1 silly argv   '$0':
+1 silly argv    '/Users/rewathkafley/Documents/Projects/lerna-test/node_modules/.bin/lerna',
+1 silly argv   ignoreChanges: [ 'common' ] }
+2 notice cli v3.13.3
+3 verbose rootPath /Users/rewathkafley/Documents/Projects/lerna-test
+4 info versioning independent
+5 error Error: Invalid package name "awesome package 1": name can only contain URL-friendly characters
+5 error     at invalidPackageName (/Users/rewathkafley/Documents/Projects/lerna-test/node_modules/npm-package-arg/npa.js:82:15)
+5 error     at Result.setName (/Users/rewathkafley/Documents/Projects/lerna-test/node_modules/npm-package-arg/npa.js:118:11)
+5 error     at new Result (/Users/rewathkafley/Documents/Projects/lerna-test/node_modules/npm-package-arg/npa.js:107:23)
+5 error     at Function.resolve (/Users/rewathkafley/Documents/Projects/lerna-test/node_modules/npm-package-arg/npa.js:54:15)
+5 error     at new Package (/Users/rewathkafley/Documents/Projects/lerna-test/node_modules/@lerna/package/index.js:36:26)
