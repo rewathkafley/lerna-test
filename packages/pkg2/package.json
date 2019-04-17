@@ -14,10 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
+    "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "7ce311f159589876ee5e350bb7ef4e254bc7add8"
+  "gitHead": "14a3debcca598dfdaa629e84e68fb0aba4428347"
 }
