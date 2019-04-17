@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@rewath/common": "^1.1.0"
-  }
+  },
+  "gitHead": "7ce311f159589876ee5e350bb7ef4e254bc7add8"
 }
