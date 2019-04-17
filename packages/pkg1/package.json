@@ -1,6 +1,6 @@
 {
   "name": "awesome-package-1",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Rewath Kafley <rewathkafley@rewathkafley.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rewath/common": "^1.0.0"
+    "@rewath/common": "^1.1.0"
   }
 }
