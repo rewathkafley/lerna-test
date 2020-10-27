@@ -19,7 +19,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@rewath/common": "^1.1.1"
   },
   "gitHead": "f32f4e4d54f0c6fffe8695e34d4814b46f5b7ee9"
