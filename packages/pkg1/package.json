@@ -1,6 +1,6 @@
 {
   "name": "awesome-package-1",
-  "version": "0.1.2",
+  "version": "1.2.0",
   "description": "> TODO: description",
   "author": "Rewath Kafley <rewathkafley@rewathkafley.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "peerDependencies": {
-    "@rewath/common": "^1.1.1"
+    "@rewath/common": "^1.2.0"
   },
   "gitHead": "f32f4e4d54f0c6fffe8695e34d4814b46f5b7ee9"
 }
