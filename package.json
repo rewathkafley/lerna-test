@@ -9,6 +9,6 @@
   },
   "scripts": {
     
-  "version": "node peer-dependencies"
+  "version": "node peer-dependencies -f"
   }
 }
