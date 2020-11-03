@@ -1,6 +1,5 @@
 {
   "name": "lerna-test",
-  "version": "1.0.0",
   "main": "index.js",
   "author": "Rewath Kafley <rewathkafley@rewathkafley.com>",
   "license": "MIT",
